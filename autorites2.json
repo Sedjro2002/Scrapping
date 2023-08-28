@@ -1,0 +1,30 @@
+['{
+        "id": 104156,
+        "denomination": "Agence B\\u00e9ninoise d\'Electrification Rurale et de Ma\\u00eetrise d\'Energie",
+        "email": "aberme1474@yahoo.fr",
+        "fax": null,
+        "flagTache": 0,
+        "idtype": 0,
+        "logo": null,
+        "photoResponsable": null,
+        "responsable": "KAKI Christophe",
+        "sigle": "ABERME",
+        "statutpart": "",
+        "telephone": "97269034",
+        "typeautorite": {
+            "id": 2,
+            "code": "SAO",
+            "description": "AGENCES, ET OFFICES DE L\\u2019\\u00c9TAT",
+            "libelle": "AGENCES, ET OFFICES DE L\\u2019\\u00c9TAT",
+            "ordre": 2,
+            "autoritecontractantes": null,
+            "nbContent": 0
+        },
+        "unitedelaicomplementpieces": "",
+        "urlsiteweb": null,
+        "valeurdelaicomplementpieces": 0,
+        "annee": 2023,
+        "datePublication": "2023-07-03",
+        "services": null
+    }'
+]
