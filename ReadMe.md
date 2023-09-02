@@ -16,7 +16,7 @@
 
 ## Lancement
 - Activer l'environnement virtuel : `source venv/bin/activate`
-- Lancer le script de votre choix : `python script.py`
+- Lancer le script : `python script.py`
 
 ## Désactivation de l'environnement virtuel
 - Lancer la commande : `deactivate`
